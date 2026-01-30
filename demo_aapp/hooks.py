@@ -244,5 +244,7 @@ app_license = "mit"
 
 fixtures = [
     "Customer",
-    "Item"
+    "Item",
+    "Ride Booking",
+    "Vehicle Ride"
 ]

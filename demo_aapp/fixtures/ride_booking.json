@@ -1,0 +1,113 @@
+[
+ {
+  "booking_date": "2026-01-30",
+  "customer": "Ankita",
+  "customer_name": "Ankita",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 100.0,
+  "make": "test",
+  "modified": "2026-01-30 16:27:31.279728",
+  "name": "3xo -2026-0002",
+  "phone_number": "9871890708",
+  "price_per_km": "15",
+  "return_date": "2026-01-31",
+  "services": [
+   {
+    "amount": "1500",
+    "parent": "3xo -2026-0002",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Guides"
+   }
+  ],
+  "total_amount": 0.0,
+  "type": "4 wheeler",
+  "vehicle": "3xo"
+ },
+ {
+  "booking_date": "2026-01-30",
+  "customer": "Ankita",
+  "customer_name": "Ankita",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 1000.0,
+  "make": "test",
+  "modified": "2026-01-30 16:48:39.065257",
+  "name": "Thar -2026-0003",
+  "phone_number": "9871890708",
+  "price_per_km": "10",
+  "return_date": "2026-01-30",
+  "services": [
+   {
+    "amount": "1500",
+    "parent": "Thar -2026-0003",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Guides"
+   }
+  ],
+  "total_amount": 10000.0,
+  "type": "4 wheeler",
+  "vehicle": "Thar"
+ },
+ {
+  "booking_date": "2026-01-30",
+  "customer": "Ankita",
+  "customer_name": "Ankita",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 200.0,
+  "make": "test",
+  "modified": "2026-01-30 16:49:18.523709",
+  "name": "3xo -2026-0004",
+  "phone_number": "9871890708",
+  "price_per_km": "15",
+  "return_date": "2026-01-30",
+  "services": [
+   {
+    "amount": "1000",
+    "parent": "3xo -2026-0004",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Travel Insurance"
+   }
+  ],
+  "total_amount": 3000.0,
+  "type": "4 wheeler",
+  "vehicle": "3xo"
+ },
+ {
+  "booking_date": "2026-01-30",
+  "customer": "Ankita",
+  "customer_name": "Ankita",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 1000.0,
+  "make": "Test",
+  "modified": "2026-01-30 17:04:26.966048",
+  "name": "Verna -2026-0005",
+  "phone_number": "9871890708",
+  "price_per_km": "100",
+  "return_date": "2026-01-30",
+  "services": [
+   {
+    "amount": "1500",
+    "parent": "Verna -2026-0005",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Guides"
+   },
+   {
+    "amount": "1000",
+    "parent": "Verna -2026-0005",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Travel Insurance"
+   }
+  ],
+  "total_amount": 102500.0,
+  "type": "4 wheeler",
+  "vehicle": "Verna"
+ }
+]

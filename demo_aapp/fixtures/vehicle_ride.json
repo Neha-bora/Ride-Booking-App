@@ -1,0 +1,42 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/Screenshot from 2026-01-22 13-01-33.png",
+  "make": "test",
+  "modified": "2026-01-30 16:16:44.923668",
+  "name": "Bike",
+  "price_per_km": "100",
+  "type": "2 wheeler"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/Screenshot from 2026-01-22 13-01-33.png",
+  "make": "test",
+  "modified": "2026-01-30 16:17:27.153365",
+  "name": "3xo",
+  "price_per_km": "15",
+  "type": "4 wheeler"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/Screenshot from 2026-01-22 13-01-33.png",
+  "make": "test",
+  "modified": "2026-01-30 16:17:47.150864",
+  "name": "Thar",
+  "price_per_km": "10",
+  "type": "4 wheeler"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/Screenshot from 2026-01-22 13-01-33.png",
+  "make": "Test",
+  "modified": "2026-01-30 17:02:45.637176",
+  "name": "Verna",
+  "price_per_km": "100",
+  "type": "4 wheeler"
+ }
+]
