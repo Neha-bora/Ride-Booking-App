@@ -1,0 +1,52 @@
+[
+ {
+  "address": null,
+  "company_name": "Ankita",
+  "department": null,
+  "designation": null,
+  "docstatus": 0,
+  "doctype": "Contact",
+  "email_id": "",
+  "email_ids": [],
+  "first_name": null,
+  "full_name": "Ankita",
+  "gender": null,
+  "google_contacts": null,
+  "google_contacts_id": null,
+  "image": null,
+  "is_billing_contact": 0,
+  "is_primary_contact": 1,
+  "last_name": null,
+  "links": [
+   {
+    "link_doctype": "Customer",
+    "link_name": "Ankita",
+    "link_title": "Ankita",
+    "parent": "Ankita-Ankita",
+    "parentfield": "links",
+    "parenttype": "Contact"
+   }
+  ],
+  "middle_name": null,
+  "mobile_no": "9871890708",
+  "modified": "2026-01-30 16:07:28.402215",
+  "name": "Ankita-Ankita",
+  "phone": "",
+  "phone_nos": [
+   {
+    "is_primary_mobile_no": 1,
+    "is_primary_phone": 0,
+    "parent": "Ankita-Ankita",
+    "parentfield": "phone_nos",
+    "parenttype": "Contact",
+    "phone": "9871890708"
+   }
+  ],
+  "pulled_from_google_contacts": 0,
+  "salutation": null,
+  "status": "Passive",
+  "sync_with_google_contacts": 0,
+  "unsubscribed": 0,
+  "user": null
+ }
+]

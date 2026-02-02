@@ -246,5 +246,7 @@ fixtures = [
     "Customer",
     "Item",
     "Ride Booking",
-    "Vehicle Ride"
+    "Vehicle Ride",
+    "Item Price",
+    "Contact"
 ]
